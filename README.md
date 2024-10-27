@@ -18,4 +18,5 @@ When to Apply Deep Learning:
 1. Use deep learning to approximate parts where classical methods perform poorly.
 2. Accelerate simulation processes.
 
-In this repository, we’ll gather examples and implement them in Python, showing how deep learning can be used effectively while still respecting physical laws.
+In this repository, we’ll gather examples and implement them in Python, showing how deep learning can be used effectively while still respecting physical laws. We refer to the following resources for more information:
+'https://physicsbaseddeeplearning.org/intro.html' and 'https://www.youtube.com/@CAMLabETHZurich'.
